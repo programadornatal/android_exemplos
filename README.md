@@ -1,6 +1,4 @@
-# Exemplos de aplicativos Android
-
-﻿![Image](images/github_banner.png)
+![Image](images/github_banner.png)
 
 # Android Exemplos
 Vários Exemplos de Aplicativos Android
