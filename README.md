@@ -2,7 +2,7 @@
 
 ﻿![Image](images/github_banner.png)
 
-# Flutter Exemplos
+# Android Exemplos
 Vários Exemplos de Aplicativos Android
 
 ### Se precisar é só chamar :heart:
